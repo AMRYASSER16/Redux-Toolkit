@@ -4,7 +4,7 @@ import cartItems from "../../cartItems";
 
 const initialState = {
   cartItems,
-  amount: 2,
+  amount: 0,
   total: 0,
   isLoading: true,
 };
